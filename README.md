@@ -3,5 +3,4 @@ CV - Alexandre PUGEAT
 
 TODO :
 
-0 - Mindmap
-1- Mindmap
+Mindmap REF
