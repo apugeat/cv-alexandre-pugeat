@@ -1,6 +1,5 @@
-# cv-alexandre-pugeat
-CV - Alexandre PUGEAT
+# CV - Alexandre PUGEAT
 
 TODO :
 
-Mindmap REF
+Mindmap REF v1
