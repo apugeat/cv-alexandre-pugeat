@@ -1,5 +1,3 @@
 # CV - Alexandre PUGEAT
 
-TODO :
-
-Mindmap REF v1
+http://fr.linkedin.com/in/apugeat/en
